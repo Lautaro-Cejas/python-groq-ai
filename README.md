@@ -20,8 +20,8 @@ Este proyecto es una implementación ligera de un **Agente de IA Text-to-SQL**. 
 
 1.  **Clonar el repositorio**
     ```bash
-    git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git)
-    cd NOMBRE_DEL_REPO
+    git clone [https://github.com/Lautaro-Cejas/python-groq-ai.git](https://github.com/Lautaro-Cejas/python-groq-ai.git)
+    cd python-groq-ai
     ```
 
 2.  **Crear y activar entorno virtual**
@@ -33,7 +33,7 @@ Este proyecto es una implementación ligera de un **Agente de IA Text-to-SQL**. 
     * En Linux/Mac:
         ```bash
         python3 -m venv venv
-        source venv/bin/activate
+        source venv/Scripts/activate
         ```
 
 3.  **Instalar dependencias**
