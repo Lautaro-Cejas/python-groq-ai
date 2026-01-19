@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos compilados de Python (basura)
+__pycache__/
+*.py[cod]
+
+# Variables de entorno reales (seguridad)
+.env
+
+# IDEs
+.vscode/
+.idea/
